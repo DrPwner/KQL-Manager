@@ -16,7 +16,7 @@ The KQL Query Manager is a Python application that allows you to manage and orga
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/KQL-Manager.git
+   git clone https://github.com/DrPwner/KQL-Manager.git
 2. Navigate to the project directory:
   cd kql-query-manager
 3. Run The Application:
