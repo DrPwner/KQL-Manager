@@ -36,7 +36,7 @@ The KQL Query Manager is a Python application that allows you to manage and orga
 - **Search**:
 - Search: Perform a search for KQL queries based on title, query text, or tags.
 
-##Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/bd20190e-e780-4919-a745-fd15f9b3d9c7)
 
